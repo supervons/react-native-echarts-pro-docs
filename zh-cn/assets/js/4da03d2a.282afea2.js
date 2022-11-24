@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_native_echarts_pro_docs=self.webpackChunkreact_native_echarts_pro_docs||[]).push([[6894],{1552:e=>{e.exports=JSON.parse('{"permalink":"/react-native-echarts-pro-docs/zh-cn/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
